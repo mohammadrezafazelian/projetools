@@ -72,7 +72,7 @@ export default function Home() {
               <ToolCard
                 title="Advanced Risk System"
                 description="Pattern-based multi-dimensional risk analysis with deep logic checks."
-                href="/tools/risk-system"
+                href="/tools/risk-behavior-analysis"
               />
             </motion.div>
             
