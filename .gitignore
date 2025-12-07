@@ -42,6 +42,8 @@ __pycache__/
 *.class
 *.jar
 *.war
+.next/
+out/
 
 # Environment variables
 .env
@@ -52,5 +54,3 @@ __pycache__/
 *.tmp
 *.temp
 .cache/
-
-
